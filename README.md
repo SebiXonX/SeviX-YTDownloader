@@ -1,10 +1,10 @@
-## SeviX YTDownloader
+### SeviX YTDownloader
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
-SeviX YTDownloader is used to download music, movies or thumbnail images from YT for free and without viruses. It is currently in Early Access and under development. Wait for updates and join our discord server: (not yet available)
+SeviX YTDownloader is used to download music, movies or thumbnail images from YT for free and without viruses. It is currently in Early Access and under development. Wait for updates and join our discord server: https://discord.gg/ScbNB7Tt3K
 	
   
 ## Technologies
