@@ -1,4 +1,4 @@
-#SeviX YTDownloader
+# SeviX YTDownloader
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
