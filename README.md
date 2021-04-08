@@ -14,7 +14,7 @@ Project is created with:
 
 ## Setup
 To run this program, run this script on linux after downloading all file on Linux or Mac OS
-
+!!waring!!
 ```
 $ cd ../YTDownloader
 $ bash run.sh
@@ -24,3 +24,8 @@ or on Windows, run exe file or run main.py or in CMD:
 C:\> cd YTDownloader
 C:\YTDownloader\> run.bat
 ```
+
+##Download
+Download for Windows `exe` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
+Download for Windows `py` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
+Download for Linux/Mac `py` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
