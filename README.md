@@ -1,7 +1,7 @@
 # SeviX YTDownloader
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup and Downloading](#Setup and Downloading)
+* [Setup and Downloading](#Setup)
 
 ## General info
 SeviX YTDownloader is used to download music, movies or thumbnail images from YT for free and without viruses. It is currently in Early Access and under development. Wait for updates and join our discord server: https://discord.gg/ScbNB7Tt3K
@@ -12,7 +12,7 @@ Project is created with:
 * Batch or (Python)Py2exe(Windows)
 * Bash(Linux/MacOS)
 
-## Setup and Downloading
+## Setup
 To run this program, run this script on linux after downloading all file on Linux or Mac OS
 !!waring!!
 ```
@@ -24,6 +24,6 @@ or on Windows, run exe file or run main.py or in CMD:
 C:\> cd YTDownloader
 C:\YTDownloader\> run.bat
 ```
-Download for Windows `exe` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
-Download for Windows `py` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
-Download for Linux/Mac `py` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
+* Download for Windows `exe` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
+* Download for Windows `py` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
+* Download for Linux/Mac `py` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
