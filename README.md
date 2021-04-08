@@ -1,7 +1,7 @@
 # SeviX YTDownloader
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Setup and Downloading](# Setup and Downloading)
 *[Download](#Download)
 
 ## General info
@@ -13,7 +13,7 @@ Project is created with:
 * Batch or (Python)Py2exe(Windows)
 * Bash(Linux/MacOS)
 
-## Setup
+## Setup and Downloading
 To run this program, run this script on linux after downloading all file on Linux or Mac OS
 !!waring!!
 ```
@@ -25,8 +25,6 @@ or on Windows, run exe file or run main.py or in CMD:
 C:\> cd YTDownloader
 C:\YTDownloader\> run.bat
 ```
-
-##Download
 Download for Windows `exe` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
 Download for Windows `py` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
 Download for Linux/Mac `py` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe).
